@@ -121,16 +121,16 @@
       "entryType": "SECTION",
       "fields": [
         {
-          "id": "yext/name"
+          "id": "name"
         },
         {
-          "id": "yext/entityId"
+          "id": "entityId"
         },
         {
-          "id": "yext/description"
+          "id": "description"
         },
         {
-          "id": "yext/videos",
+          "id": "videos",
           "visibleOnAdd": true
         },
         {
@@ -149,10 +149,10 @@
           "id": "c_theme"
         },
         {
-          "id": "yext/organizerEmail"
+          "id": "organizerEmail"
         },
         {
-          "id": "yext/landingPageUrl"
+          "id": "landingPageUrl"
         }
       ]
     },
@@ -273,10 +273,10 @@
       "entryType": "SECTION",
       "fields": [
         {
-          "id": "yext/folder"
+          "id": "folder"
         },
         {
-          "id": "yext/labels"
+          "id": "labels"
         }
       ]
     }

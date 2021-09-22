@@ -2,7 +2,7 @@
   "$id": "c_restaurantType",
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Restaurant Type",
-  "typeId": "yext/option",
+  "typeId": "option",
   "type": {
     "optionType": {
       "option": [

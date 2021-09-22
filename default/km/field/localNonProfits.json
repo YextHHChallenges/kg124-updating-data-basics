@@ -2,10 +2,10 @@
   "$id": "c_localNonProfits",
   "$schema": "https://schema.yext.com/config/km/field/v1",
   "displayName": "Local Non-Profits",
-  "typeId": "yext/list",
+  "typeId": "list",
   "type": {
     "listType": {
-      "typeId": "yext/string",
+      "typeId": "string",
       "type": {
         "stringType": {
           "stereotype": "SIMPLE"
